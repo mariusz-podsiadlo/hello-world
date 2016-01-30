@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "Hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariusz-podsiadlo/hello-world.git"
+  },
+  "keywords": [
+    "github",
+    "node"
+  ],
+  "author": "Mariusz Podsiadło",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariusz-podsiadlo/hello-world/issues"
+  }
+}
