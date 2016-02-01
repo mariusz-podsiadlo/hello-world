@@ -29,6 +29,7 @@ if (!task) {
   log.error('No tasks will be appended to "' + file + '" since you didn\'t specify anything.');
 }
 
+log.info( 'parameters ok...');
 
 /**
  * Application
