@@ -31,7 +31,7 @@ if (!task) {
 
 log.info( 'parameters ok...');
 
-log.info( 'yet, another important info...');
+log.info( 'yet, another important info..., ble ble ble!');
 
 /**
  * Application
